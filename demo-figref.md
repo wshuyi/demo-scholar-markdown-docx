@@ -1,6 +1,7 @@
 ---
 fignos-cleveref: On
 fignos-plus-name: 图
+fignos-caption-name: 图
 ...
 
 学术文稿最小化示例[^1]
